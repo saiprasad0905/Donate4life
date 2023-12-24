@@ -1,0 +1,58 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Child bloo0d group prediction</title>
+	<style>
+		table {
+			border-collapse: collapse;
+			width: 100%;
+			color: #588c7e;
+			font-family: monospace;
+			font-size: 25px;
+			text-align: left;
+		}
+		th {
+			background-color: #588c7e;
+			color: white;
+		}
+		tr:nth-child(even) {background-color: #f2f2f2}
+	</style>
+</head>
+<body>
+	<h2>volunteers list</h2>
+	<table>
+		<tr>
+			<th>name</th>
+			<th>blood group</th>
+			<th>phone number</th>
+			<th>nearest location</th>
+			
+		</tr>
+		<tr>
+			<td>Varshitha</td>
+			<td>B-ve</td>
+			<td>9014922082</td>
+			<td>bachupally</td>
+			
+			
+		</tr>
+		<tr>
+			<td>chetna</td>
+			<td> B-ve</td>
+			<td>9177508333</td>
+			<td>Kukatpally </td>
+			
+		</tr>
+              <tr>
+			<td>saivardhan</td>
+			<td> B-ve</td>
+			<td>        6300006804</td>
+			<td>pragathi nagar </td>
+			
+		</tr>
+		
+	</table>
+	
+</body>
+</html>

@@ -1,0 +1,100 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Child bloo0d group prediction</title>
+	<style>
+		table {
+			border-collapse: collapse;
+			width: 100%;
+			color: black;
+			font-family: monospace;
+			font-size: 25px;
+			text-align: left;
+		}
+		th {
+			background-color: red;
+			color: white;
+		}
+		
+	</style>
+</head>
+<body>
+	<h2>blood prediction</h2>
+	<table>
+		<tr>
+			<th>One of parent blood group</th>
+			<th>blood group of other parent</th>
+			<th>prediction</th>
+			
+		</tr>
+		<tr>
+			<td>O blood group</td>
+			<td>O blood group</td>
+			<td>your child will have o group</td>
+			
+		</tr>
+		<tr>
+			<td>A blood group</td>
+			<td>A blood group</td>
+			<td>your child may have A blood group(75%) or O blood group(25%)</td>
+			</tr>
+		<tr>
+			<td>B blood group</td>
+			<td>B blood group</td>
+			<td>your child may have B blood group(75%) or O blood group(25%)</td>
+		</tr>
+		<tr>
+			<td>AB blood group</td>
+			<td>AB blood group</td>
+			<td>your child may have AB blood group(50%) or A blood group(25%) or B blood group(25%)</td>
+			
+		</tr>
+		<tr>
+			<td>A blood group</td>
+                         <td>O blood group</td>
+			<td>your child may have A blood group(75%) or O blood group(25%)</td>
+			
+		</tr>
+		<tr>
+			<td>B blood group</td>
+			<td>O blood group</td>
+			<td>Your child blood group maybe B blood group(75%) or O blood group(25%)</td>
+
+			
+		</tr>
+          <tr>
+			<td>AB blood group</td>
+			<td>O blood group</td>
+			<td>Your child blood group maybe B blood group(50%) or A blood group(50%)</td>
+
+			
+		</tr>
+           <tr>
+			<td>A blood group</td>
+			<td>Ab blood group</td>
+			<td>Your child blood group maybe A blood group(50%) or O blood group(17%) or Ab blood group(33%)</td>
+
+			
+		</tr>
+                  <tr>
+			<td>B blood group</td>
+			<td>AB blood group</td>
+			<td>Your child blood group maybe B blood group(50%) or O blood group(17%) or Ab blood group(33%)</td>
+
+			
+		
+                  
+                   <tr>
+			<td>B blood group</td>
+			<td>A blood group</td>
+			<td>Your child blood group maybe B blood group(23%) or O blood group(9%) or AB blood group(45%)or A blood group (23%) </td>
+
+			
+		</tr>
+                
+
+	</table>
+	<marquee><h3><mark> The above is precised by our experts it can be false in very very few situations</mark></h3></marquee>
+</body>
+</html>

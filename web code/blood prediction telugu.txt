@@ -1,0 +1,101 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>పిల్లల రక్త సమూహం అంచనా
+</title>
+	<style>
+		table {
+			border-collapse: collapse;
+			width: 100%;
+			color: black;
+			font-family: monospace;
+			font-size: 25px;
+			text-align: left;
+		}
+		th {
+			background-color: red;
+			color: white;
+		}
+		
+	</style>
+</head>
+<body>
+	<h2>రక్త అంచనా</h2>
+	<table>
+		<tr>
+			<th>తల్లి లేదా తండ్రిబ్లడ్ గ్రూప్‌</th>
+			<th>తల్లి లేదా తండ్రిబ్లడ్ గ్రూప్‌</th>
+			<th>భవిష్య వాణి</th>
+			
+		</tr>
+		<tr>
+			<td>O blood group</td>
+			<td>O blood group</td>
+			<td>మీ పిల్లలకి ఓ గ్రూప్ ఉంటుంది</td>
+			
+		</tr>
+		<tr>
+			<td>A blood group</td>
+			<td>A blood group</td>
+			<td>మీ పిల్లలకి A బ్లడ్ గ్రూప్ (75%) లేదా O బ్లడ్ గ్రూప్ (25%) ఉండవచ్చు</td>
+			</tr>
+		<tr>
+			<td>B blood group</td>
+			<td>B blood group</td>
+			<td>మీ పిల్లలకి B బ్లడ్ గ్రూప్ (75%) లేదా O బ్లడ్ గ్రూప్ (25%) ఉండవచ్చు</td>
+		</tr>
+		<tr>
+			<td>AB blood group</td>
+			<td>AB blood group</td>
+			<td>మీ పిల్లలకి AB బ్లడ్ గ్రూప్ (50%) లేదా A బ్లడ్ గ్రూప్ (25%) లేదా B బ్లడ్ గ్రూప్ (25%) ఉండవచ్చు</td>
+			
+		</tr>
+		<tr>
+			<td>A blood group</td>
+                         <td>O blood group</td>
+			<td>మీ పిల్లలకి A బ్లడ్ గ్రూప్ (75%) లేదా O బ్లడ్ గ్రూప్ (25%) ఉండవచ్చు</td>
+			
+		</tr>
+		<tr>
+			<td>B blood group</td>
+			<td>O blood group</td>
+			<td>మీ పిల్లల బ్లడ్ గ్రూప్ B బ్లడ్ గ్రూప్ (75%) లేదా O బ్లడ్ గ్రూప్ (25%)</td>
+
+			
+		</tr>
+          <tr>
+			<td>AB blood group</td>
+			<td>O blood group</td>
+			<td>మీ పిల్లల బ్లడ్ గ్రూప్ B బ్లడ్ గ్రూప్ (50%) లేదా A బ్లడ్ గ్రూప్ (50%)</td>
+
+			
+		</tr>
+           <tr>
+			<td>A blood group</td>
+			<td>Ab blood group</td>
+			<td>మీ పిల్లల బ్లడ్ గ్రూప్ A బ్లడ్ గ్రూప్ (50%) లేదా O బ్లడ్ గ్రూప్ (17%) లేదా Ab బ్లడ్ గ్రూప్ (33%)</td>
+
+			
+		</tr>
+                  <tr>
+			<td>B blood group</td>
+			<td>AB blood group</td>
+			<td>మీ పిల్లల బ్లడ్ గ్రూప్ B బ్లడ్ గ్రూప్ (50%) లేదా O బ్లడ్ గ్రూప్ (17%) లేదా Ab బ్లడ్ గ్రూప్ (33%)</td>
+
+			
+		
+                  
+                   <tr>
+			<td>B blood group</td>
+			<td>A blood group</td>
+			<td>మీ పిల్లల బ్లడ్ గ్రూప్ B బ్లడ్ గ్రూప్ (23%) లేదా O బ్లడ్ గ్రూప్ (9%) లేదా AB బ్లడ్ గ్రూప్ (45%) లేదా A బ్లడ్ గ్రూప్ (23%) </td>
+
+			
+		</tr>
+                
+
+	</table>
+	<marquee><h3><mark> పైన పేర్కొన్నది మా నిపుణులచే ఖచ్చితమైనది, ఇది చాలా తక్కువ సందర్భాలలో తప్పు కావచ్చు</mark></h3></marquee>
+</body>
+</html>

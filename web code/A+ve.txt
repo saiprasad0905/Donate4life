@@ -1,0 +1,72 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Child bloo0d group prediction</title>
+	<style>
+		table {
+			border-collapse: collapse;
+			width: 100%;
+			color: #588c7e;
+			font-family: monospace;
+			font-size: 25px;
+			text-align: left;
+		}
+		th {
+			background-color: #588c7e;
+			color: white;
+		}
+		tr:nth-child(even) {background-color: #f2f2f2}
+	</style>
+</head>
+<body>
+	<h2>volunteers list</h2>
+	<table>
+		<tr>
+			<th>name</th>
+			<th>blood group</th>
+			<th>phone number</th>
+			<th>nearest location</th>
+			
+		</tr>
+		<tr>
+			<td>K.V.M.ShashankReddy </td>
+			<td>A+ve</td>
+			<td>7569044139</td>
+			<td>Bachupally</td>
+			
+			
+		</tr>
+		<tr>
+			<td>Preetham</td>
+			<td> A+ve</td>
+			<td> 8125556666</td>
+			<td>kphb</td>
+			
+		</tr>
+		<tr>
+			<td>avinash</td>
+			<td> A+ve</td>
+			<td>9177318585</td>
+			<td>bachupally</td>
+			
+		</tr>
+		<tr>
+			<td>manaswi</td>
+			<td> A+ve</td>
+			<td>8341397714</td>
+			<td>yousufguda</td>
+			
+		</tr>
+		
+<tr>
+			<td>sadhana</td>
+			<td> A+ve</td>
+			<td>7842469610</td>
+			<td>nallagandla</td>
+			
+		</tr>
+	</table>
+	
+</body>
+</html>

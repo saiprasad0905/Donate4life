@@ -1,0 +1,40 @@
+<html>
+<head>
+<h1>
+<tittle style="color: black;">
+Donate4life</h1>
+</tittle>
+</head>
+<body bgcolour="red"><h2><centre><p style="color:red">
+ડોનેટ4લાઇફમાં આપનું સ્વાગત છે!
+ઘબરાવવાની જરૂર નથી, આપના પ્રિયજન શીઘ્ર સ્વસ્થ થઈ જશે!
+અહીં આપણા સ્વયંસેવા યોગ્ય વોલન્ટિયરની યાદી છે, આપની જરૂરાતને ધ્યાનપૂર્વક જાહેર કરો, અને તેને ચકાસો।
+</p>
+</centre>
+<image src="blood.jpg">
+<ul>
+<li>જો તમને O+ve ચાહિએ હોય<a href="O+ve.html">આપણના સ્વયંસેવકો જોવા માટે અહીં ક્લિક કરો. </a></li>
+<li>જો તમને O-ve ચાહિએ હોય <a href="O-ve.html">આપણના સ્વયંસેવકો જોવા માટે અહીં ક્લિક કરો. </a></li>
+
+<li>જો તમને A+ve ચાહિએ હોય <a href="A+ve.html">આપણના સ્વયંસેવકો જોવા માટે અહીં ક્લિક કરો.</a></li>
+<li>જો તમને A-ve ચાહિએ હોય<a href="A-ve.html">આપણના સ્વયંસેવકો જોવા માટે અહીં ક્લિક કરો. </a></li>
+<li>જો તમને B+ve ચાહિએ હોય <a href="B+ve.html">આપણના સ્વયંસેવકો જોવા માટે અહીં ક્લિક કરો. </a></li>
+<li>જો તમને B-ve ચાહિએ હોય <a href="B-ve.html">આપણના સ્વયંસેવકો જોવા માટે અહીં ક્લિક કરો.</a></li>
+<li>જો તમને AB+ve ચાહિએ હોય<a href="AB+ve.html">આપણના સ્વયંસેવકો જોવા માટે અહીં ક્લિક કરો. </a></li>
+<li>જો તમને AB-ve ચાહિએ હોય<a href="AB-ve.html">આપણના સ્વયંસેવકો જોવા માટે અહીં ક્લિક કરો. </a></li>
+<marquee> AB રક્ત ગ્રુપ એ વિશ્વમાં એક સાર્વજનિક રક્ત ગ્રાહક છે</marquee>
+<marquee> O રક્ત સમૂહ એક સાર્વભૌમ રક્તદાતા છે.</marquee>
+</ul>
+<ul>
+<li><Right><a href="https://en.wikipedia.org/wiki/Rh_blood_group_system"> Rh ફેક્ટર શું છે? </a></Right></li>
+<li><Right><a href="blood prediction.html"> શું તમે આપના ભવિષ્યના બાળના રક્ત સમૂહને જાણવામાં રુચાયા છો, તો આ અમારા વિશેષજ્ઞ દળનું અત્યંત ઉપહાર છે</a></Right></li>
+</ul>
+</h2>
+<marquee><h1><mark>If you are willing to volunteer and wanted to donate for saving precious lives then contact us at
+<ul><li>2320030349@klh.edu.in</li>
+<li>2320030324@klh.edu.in </li></ul>
+Contact number:9346478022 ,9390203527
+</mark></h1>
+</marquee>
+</body>
+</html>

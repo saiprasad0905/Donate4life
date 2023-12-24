@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Page Title</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=50%, initial-scale=1">
+<style>
+/* Style the body */
+body {
+  font-family: Arial;
+  margin: 0;
+}
+
+/* Header/Logo Title */
+.header {
+  padding: 1px;
+  text-align: center;
+  background: red;
+  color: white;
+  font-size: 20px;
+}
+
+/* Page Content */
+.content {padding:10px;}
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h1> Donate4life</h1><img src="logo 1.png"/>
+  
+  <p>Donate for saving life</p>
+
+</div>
+
+<div class="content">
+<left>
+
+  <h2>Kindly select your prefered language</h2>
+<center>
+<h2>
+<li><a href="web.html">English</a>s
+<a href="web hindi.html">हिंदी</a>
+<a href="web telugu.html">తెలుగు</a>
+<a href="web tamil.html">தமிழ்</a>
+</li>
+<li><a href="web bengali.html">বাংলা</a>
+<a href="web marathi.html">मराठी</a>
+<a href="web malayalam.html">
+മലയാളം</a>
+<a href="web kannada.html">ಕನ್ನಡ</a>
+<a href="web gujarat.html">ગુજરાતી</a>
+</li>
+</h2>
+ </center>
+<center>
+<img src="blood.WEBP"  width:"70%">
+<img src="blood 2.WEBP" width:70%>
+</center>
+  <p><h3> About us </p>
+  <p>This site is non-profitable organisation which serves to connect the receipent to the donor
+   Join us to donate for life
+   Gear up guys to serve the society which gave you so much that can't even imagine 
+The donors / volunteers serving with us are verifed my our experts and the information of our volunteers are safe 
+ 
+</p>
+<p><h1>Why us?</h1> </p>
+<p><h2><li>We provide acurate information we promise to connect the donor with the recepient</li>
+<li>NO delay in finding the donor</li></h2></p>
+  
+</div>
+
+</body>
+</html>

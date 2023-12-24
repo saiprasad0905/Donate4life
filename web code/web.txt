@@ -1,0 +1,43 @@
+<html>
+<head>
+<h1>
+<tittle style="color: black;"><center>
+Donate4life</h1></center>
+</tittle>
+</head>
+<body bgcolor="crimson"><h2><centre><p style="color:white">
+Welcome to Donate4life!
+Don't worry your beloved will get well soon!
+Here the list of our volunteer as per your requirement kindly go through it
+</p>
+</centre><center>
+<image src="common pictures.JPEG">
+</center><ul>
+<li>If u want O+ve <a href="O+ve.html">click here to see our volunteers </a></li>
+<li>If u want O-ve <a href="O-ve.html">click here to see our volunteers </a></li>
+
+<li>If u want A+ve <a href="A+ve.html">click here to see our volunteers </a></li>
+<li>If u want A-ve <a href="A-ve.html">click here to see our volunteers </a></li>
+<li>If u want B+ve <a href="B+ve.html">click here to see our volunteers </a></li>
+<li>If u want B-ve <a href="B-ve.html">click here to see our volunteers </a></li>
+<li>If u want AB+ve <a href="AB+ve.html">click here to see our volunteers </a></li>
+<li>If u want AB-ve <a href="AB-ve.html">click here to see our volunteers </a></li>
+<marquee> AB blood group is the universal blood group receipent</marquee>
+<marquee> O blood group is an universal blood donor</marquee>
+</ul>
+<centre><ul>
+<li><Right><a href="https://en.wikipedia.org/wiki/Rh_blood_group_system"> What is Rh factor? </a></Right></li>
+<li><Right><a href="blood prediction.html"> Are you interested in knowing your blood group of your future child then this is absolute gift  from our expert team</a></Right></li>
+</ul></centre>
+</h2>
+<marquee><h1><mark>If you are willing to volunteer and wanted to donate for saving precious lives then contact us at
+<ul><li>2320030349@klh.edu.in</li>
+<li>2320030324@klh.edu.in </li></ul>
+Contact number:9346478022 ,9390203527
+</mark></h1>
+</marquee>
+</body>
+</html>
+
+
+
